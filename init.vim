@@ -41,3 +41,5 @@ call spacevim#begin()
 Layer 'spacevim'
 
 call spacevim#end()
+
+set norelativenumber
